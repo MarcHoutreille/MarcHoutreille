@@ -19,3 +19,5 @@ I have been working on numerous student projects since the beginning of the year
 
 📺 Avid documentary fan
 
+
+I'm always up for a challenge and eager to learn more.
