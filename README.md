@@ -10,7 +10,12 @@ I have been working on numerous student projects since the beginning of the year
 
 
 🎓Working on Salesforce App Builder Certification
+
 🌍 Bilingual in French and English
+
 🌍 Currently learning Mandarin Chinese on my free time
+
 📚 Passionate about Machines & Technology
+
 📺 Avid documentary fan
+
