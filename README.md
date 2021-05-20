@@ -11,15 +11,15 @@ I have been working on numerous student projects since the beginning of the year
 
 
 
-🎓Working on Salesforce App Builder Certification
+🎓Working on Salesforce Platform App Builder Credential
 
 🌍 Bilingual in French and English
 
-🌍 Currently learning Mandarin Chinese on my free time
+🌍 Currently learning Mandarin Chinese on my little free time
 
 📚 Passionate about Machines & Technology
 
-📺 Avid documentary fan
+📺 Avid Documentary fan
 
 
 I'm always up for a challenge and eager to learn more.
