@@ -7,7 +7,7 @@ I am still new to the development world and every day is a new glorious challeng
 
 I have been working on numerous student projects since the beginning of the year, most of which are public. I have been learning **HTML5**, **CSS3** (Bootstrap 5, Tailwind CSS), Javascript **ES6** and **VueJS** but I'm really interested in learning all the intricacies of **PHP** and **Laravel** at the moment. I also have a beginner **Python** background.
 
-**I am currently looking for a Web Developer internship**. I want to be part of a great team where I can work on interesting projects and hone my skills.
+**I am currently looking for a Web Developer internship**, which would ideally start in August. I want to be part of a great team where I can work on interesting projects and hone my skills.
 
 
 
