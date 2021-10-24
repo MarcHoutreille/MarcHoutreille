@@ -11,7 +11,7 @@ I have been working on numerous student projects since the beginning of the year
 
 
 
-🎓Working on Salesforce Platform App Builder Credential
+🎓Currently Interning at Accenture as a CRM Developer
 
 🌍 Bilingual in French and English
 
