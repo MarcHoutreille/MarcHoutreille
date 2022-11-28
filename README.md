@@ -11,8 +11,6 @@ I have been working on numerous student projects since the beginning of the year
 
 
 
-🎓Currently Interning at Accenture as a CRM Developer
-
 🌍 Bilingual in French and English
 
 🌍 Currently learning Mandarin Chinese on my little free time
